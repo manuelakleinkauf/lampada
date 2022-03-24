@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+#lamp img{
+    width:35vw;
+    margin: -11vh 0 0 40vw;
+    
+}
+#btn img{
+    width:25vw;
+}
+@media only screen and (min-width: 769px){
+    #lamp img{
+        width:12vw;
+        margin: -15vh 0 0 40vw;
+        
+    }
+    #btn img{
+        width:10vw;
+    }
+}
